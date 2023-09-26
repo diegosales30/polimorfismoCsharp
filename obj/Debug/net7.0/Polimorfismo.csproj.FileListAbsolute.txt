@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll
